@@ -1,0 +1,27 @@
+body{font-family:Arial,Helvetica,sans-serif;font-size:12px;color:black;margin:0px}
+#menu{font-size:12px;text-align:center;margin:0px 5px 25px 5px;padding:1px;background-color:#008080}
+#menu td{font-size:12px;font-weight:bold;color:black;}
+#menu a{color: EEFFEE}
+#menu a:hover{color:#E8E8C8}
+.identite{font-size:18px;font-weight:bold;color:#008080;padding:5px;border: solid 2px #000000;background-color: #D0E0D0}
+.bloc{margin:3px 5px 3px 5px;padding:5px 5px 0px 5px;background-color:#E0F0E0;border:solid 1px #008080}
+.bloc li {list-style:square outside}
+.bloctitre{font-size:12px;font-weight:bold;color:#000000;margin-bottom:5px}
+.filet{background-color:#008080;height:1px;line-height:1px}
+.right{margin:0px 0px auto;padding:0px;width:40%;float:right}
+.right li{list-style:circle inside}
+#personnage{margin:10px 5px 3px 5px;padding:5px;background-color:#E0F0E0;border:solid 1px #008080}
+#personom{font-size:16px;font-weight:bold;color:#008080;margin-bottom:5px}}
+#source{font-size:10px;text-align:right}
+IMG{margin:10px 20px 10px 0;float:left}
+#cause{font-size:11px;color:#444444}
+#note{font-size:11px;color:#206020}
+#photo{font-size:11px;color:#666666}
+.flechehaut{margin:-15px 0px 5px 0px;float:none}
+a:link{color:#003399;text-decoration:none}
+a:visited{color:#003399;text-decoration:none}
+a:hover{color:#0000FF;text-decoration:underline}
+a:active{color:#FF0000;text-decoration:underline}
+#bas{font-size:11px;color:#E8E8C8;text-align:center;line-height:20px;background-color:#008080}
+#bas a{color:#EEFFEE}
+#bas a:hover{color:#E8E8C8}
